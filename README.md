@@ -15,18 +15,14 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript1.svg" />
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg" />
-</p>
-
-#### 🔭 Learning/Improving:
-<p align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PHP/php1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JSON/json1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
